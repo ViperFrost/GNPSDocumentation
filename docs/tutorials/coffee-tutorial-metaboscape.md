@@ -29,3 +29,11 @@ LC-MS/MS data and files can be found in the MassIVE dataset.
 Checkout the follow-up [tutorial](featurebasedgnps.md) on how to take the output of MetaboScape to produce a molecular network at GNPS.
 
 Other tutorials are available from the main page of [Feature Based Molecular Networking Workflow](../featurebasedmolecularnetworking). 
+
+## Follow-up Tutorial for Visualization of Molecular Networks with Cytoscape
+
+Checkout the follow-up [tutorial](featurebasedmolecularnetworking-cytoscape.md) on how to visualize feature-based molecular networking with Cytoscape after running GNPS.
+
+Other tutorials are available from the main page of [Feature Based Molecular Networking Workflow](../featurebasedmolecularnetworking).
+
+
